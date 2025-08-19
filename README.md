@@ -1,11 +1,11 @@
 # Fabiola Doracely Yépez Rincón  
 
-🌍 **Specialist in Remote Sensing (LiDAR/Photogrammetry) and GIS**  
-📌 Researcher | Professor | Project Leader in Urban, Environmental & Risk Management  
+**Specialist in Remote Sensing (LiDAR/Photogrammetry) and GIS**  
+Researcher | Professor | Project Leader in Urban, Environmental & Risk Management  
 
 ---
 
-## 🎓 Education  
+## Education  
 
 - **Ph.D. in Risk Management and Civil Protection** – National School of Civil Protection, Chiapas, Mexico (2021–2024)  
 - **Ph.D. in Engineering Sciences (Environmental Systems & Energy)** – Tecnológico de Monterrey, Mexico (2007–2013)  
@@ -14,7 +14,7 @@
 
 ---
 
-## 💼 Work Experience  
+## Work Experience  
 
 **Full-time Professor & Researcher**  
 Civil Engineering Faculty / Civil Engineering Institute – UANL (2015–Present)  
@@ -32,7 +32,7 @@ UANL (2018–Present)
 
 ---
 
-## 🛰️ Selected Projects  
+## Selected Projects  
 
 - **GIRRIO Project** – Hydrological Resilience Strategy for Urban Rivers in Nuevo León (CONAHCYT, 2024–2026).  
 - **Sentinel-2 Monitoring of Dams in Nuevo León** – UANL Geomatics Department & International Water Center (2021–2022).  
@@ -42,7 +42,7 @@ UANL (2018–Present)
 
 ---
 
-## 📚 Publications  
+## Publications  
 
 - **120+ scientific and technical works**.  
 - **17 peer-reviewed journal articles (Q1–Q3 indexed)**, including:  
@@ -56,7 +56,7 @@ UANL (2018–Present)
 
 ---
 
-## 🛠️ Skills  
+## Skills  
 
 - **Remote Sensing & GIS**: LiDAR (aerial & terrestrial), Photogrammetry, UAV Mapping.  
 - **Software**: ArcGIS, QGIS, ERDAS Imagine, PCI Geomatica, Agisoft Metashape, CloudCompare, HEC-RAS.  
@@ -66,7 +66,7 @@ UANL (2018–Present)
 
 ---
 
-## 🌎 Leadership & Professional Service  
+## Leadership & Professional Service  
 
 - **Chair** – Disaster Management Working Group, *ISPRS* (International Society of Photogrammetry & Remote Sensing).  
 - **President** – SELPER Mexico (Latin American Society of Remote Sensing & Spatial Information).  
@@ -76,7 +76,7 @@ UANL (2018–Present)
 
 ---
 
-## 📫 Contact  
+## Contact  
 
 - **Email:** fabiola.yepez@gmail.com  
 - **LinkedIn:** [linkedin.com/in/fabiolayepez](https://linkedin.com/in/fabiolayepez)  
